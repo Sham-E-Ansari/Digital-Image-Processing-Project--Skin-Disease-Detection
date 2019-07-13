@@ -4,8 +4,11 @@
 Instructions:
 
 To run this project follow these instructions 
+
 • A computer where MATLAB has been installed is needed. 
-• For model one untitled and for model two untitled1 matlab gui is used. 
+
+• For model one untitled and for model two untitled1 matlab gui is used.
+
 • To analyse image of skin Click browse button then choose image and click analyse button. 
 
 
